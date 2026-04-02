@@ -1,0 +1,15 @@
+nombre_nodo,tipo_dispositivo,tipo_evento,gravedad,duracion_minutos,fecha_evento,salud_diaria_porcentaje
+SRV-Main-01,Servidor,Sobrecarga CPU,Media,15,2026-03-23 16:25:45,98.96
+SRV-Main-01,Servidor,Disco Lleno,Alta,120,2026-03-23 16:25:45,91.67
+SRV-Main-01,Servidor,Falla de Red,Critica,800,2026-03-24 14:33:44,44.44
+SRV-Main-01,Servidor,Sobrecarga CPU,Alta,300,2026-04-02 15:08:27,79.17
+RT-Edge-02,Router,Falla de Red,Critica,45,2026-03-23 16:25:45,96.88
+RT-Edge-02,Router,Falla de Red,Critica,50,2026-03-24 15:00:47,96.53
+RT-Edge-02,Router,Falla de Red,Critica,60,2026-03-24 15:00:47,95.83
+RT-Edge-02,Router,otros,Critica,70,2026-03-24 15:00:47,95.14
+RT-Edge-02,Router,Falla de Red,Critica,15,2026-04-02 15:08:27,98.96
+SW-Core-01,Switch,Reinicio,Baja,5,2026-03-23 16:25:45,99.65
+FW-Core-01,Firewall,Falla de Red,Critica,120,2026-04-02 15:08:27,91.67
+FW-Core-01,Firewall,Sobrecarga CPU,Media,60,2026-04-02 15:08:27,95.83
+SRV-DB-01,Servidor,Disco Lleno,Media,45,2026-04-02 15:08:27,96.88
+RT-Branch-05,Router,Reinicio,Baja,10,2026-04-02 15:08:27,99.31
